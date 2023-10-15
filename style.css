@@ -1,0 +1,45 @@
+* {
+    border-radius: 24px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7e7e1;
+}
+
+h3 {
+    font-size: 30px;
+    line-height: 0.1;
+    font-family: sans-serif;
+    margin-top: 3%;
+}
+
+p {
+    width: 42%;
+    font-size: 24px;
+}
+
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 24px;
+    
+}
+
+th {
+    font-size: 24px;
+    text-align: left;
+}
+
+button {
+    background-color: rgb(144, 240, 19);
+    padding: 2px 20px;
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+    font-size: 70%;
+}
+
+table {
+    width: 40%;
+} 
